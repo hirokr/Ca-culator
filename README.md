@@ -1,2 +1,2 @@
-# Ca-culator
+# Calculator
 Making a Calculator with React 
